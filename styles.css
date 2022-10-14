@@ -182,6 +182,14 @@ p.search-entry {
   font-size: 0.5em;
 }
 
+span.results-ellipsis {
+  font-size: 18px;
+}
+
+.results p.layered-target span.results-ellipsis {
+  font-size: 18px;
+}
+
 .results h2 {
   margin-top: 0;
   margin-bottom: 0;
